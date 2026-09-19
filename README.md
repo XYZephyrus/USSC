@@ -12,3 +12,4 @@ A script to make navigating around [Danbooru](https://danbooru.donmai.us) easier
 
 ##### [DarkReader](script-darkreader.user.js)
 A script to bring the famous [DarkReader](https://darkreader.org) browser extension to mobile through its API using userscript
+_TBA_
