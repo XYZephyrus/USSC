@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            DarkReader
-// @namespace       DR
+// @namespace     https://github.com/XYZephyrus/ZEUS
 // @version         v1
 // @description     NA
 // @author          Zephyrus
