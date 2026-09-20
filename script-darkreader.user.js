@@ -5,8 +5,8 @@
 // @description     NA
 // @author          Zephyrus
 // @run-at          document-end
-// @match           
-// @require            https://cdn.jsdelivr.net/npm/darkreader@4.9.58/darkreader.js
+// @match         *://*/* 
+// @require         https://cdn.jsdelivr.net/npm/darkreader@4.9.58/darkreader.js
 // ==/UserScript==
 
 (function() {
