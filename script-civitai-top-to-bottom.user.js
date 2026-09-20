@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Civitai Top to Bottom
-// @namespace    https://viayoo.com/
-// @version      1
-// @description  try to take over the world!
-// @author       Me
+// @namespace    https://github.com/XYZephyrus/ZEUS
+// @version      v1
+// @description  A script to bring the header down
+// @author       Zephyrus
 // @run-at       document-start
 // @match        *://civitai.*/*
 // @grant        GM_addStyle
