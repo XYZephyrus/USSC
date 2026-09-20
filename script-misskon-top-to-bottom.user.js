@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         MissKon Top to Bottom
-// @namespace    https://viayoo.com/
-// @version      1
-// @description  try to take over the world!
-// @author       Me
+// @namespace    https://github.com/XYZephyrus/ZEUS
+// @version      v1
+// @description  A script to bring the header down
+// @author      Zephyrus
 // @run-at       document-start
 // @match        *://misskon.*/*
 // @grant        GM_addStyle
@@ -32,16 +32,5 @@
  bottom: 50px !important;
  }
 
-        /* Prevent the bottom of the page from being hidden behind the bar */
-        body {
-            padding-bottom: 60px !important;
-        }
-
-        /* Fix submenus/mobile nav popping up instead of down */
-        #top .nav-menu, 
-        #top [x-show="menuOpen"] {
-            bottom: 100% !important;
-            top: auto !important;
-        }
     `);
 })();
