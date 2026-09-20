@@ -34,10 +34,10 @@ Fix the floating header in [Fapello](https://fapello.com) that usually happens w
 Displays a popup showing the font family currently used by the website.
 
 ##### [Force Open Link(s) in a New Tab](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-force-open-links-in-new-tab.user.js)
-Forces links to open in a new browser tab instead of the current one.
+Forces clicked links to open in a new tab instead of redirecting the current one.
 
 ##### [Force SF](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-force-sf-pro-nuke-(via-github).user.js)
-Injects SF to any sites. (Might broke icons)
+Injects SF to any sites. (Might break icons)
 
 ##### [Gelbooru to Danbooru Color Scheme](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-gelbooru-to-danbooru-color.user.js)
 Applies Danbooru's color scheme to Gelbooru for a more familiar appearance.
