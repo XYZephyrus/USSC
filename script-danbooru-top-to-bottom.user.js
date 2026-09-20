@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Danbooru Top to Bottom
-// @namespace    https://viayoo.com/
+// @namespace    https://github.com/XYZephyrus/ZEUS
 // @version      v1.2
-// @description  try to take over the world!
-// @author       Me
+// @description  A script to bring the header down.
+// @author       Zephyrus
 // @run-at       document-start
 // @match        *://danbooru.donmai.us/*
 // @grant        GM_addStyle
