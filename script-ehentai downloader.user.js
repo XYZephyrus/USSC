@@ -1,12 +1,5 @@
 // ==UserScript==
 // @name               E-Hentai Downloader
-// @name:en            ComicLooms
-// @name:zh-CN         漫画织机
-// @name:zh-TW         漫畫織機
-// @name:ja            コミック織機
-// @name:ko            만화 베틀
-// @name:es            Comic Looms
-// @name:ka            Comic Looms
 // @namespace          https://github.com/MapoMagpie/comic-looms
 // @version            4.14.10
 // @author             MapoMagpie
@@ -15,15 +8,7 @@
 // @supportURL         https://github.com/MapoMagpie/comic-looms
 // @downloadURL        https://github.com/MapoMagpie/comic-looms/releases/latest/download/comic-looms.user.js
 // @updateURL          https://github.com/MapoMagpie/comic-looms/releases/latest/download/comic-looms.meta.js
-// @match              https://*.pixiv.net/*
-// @match              https://steamcommunity.com/*
-// @match              https://twitter.com/*
-// @match              https://x.com/*
-// @match              https://*.instagram.com/*
-// @match              https://*.manhuagui.com/*
-// @match              https://*.mangacopy.com/*
-// @match              https://*.copymanga.tv/*
-// @match              https://*.artstation.com/*
+// @match              *://*.e-hentai.org/*
 // @require            https://cdn.jsdelivr.net/npm/@zip.js/zip.js@2.8.23/dist/zip.min.js
 // @require            https://cdn.jsdelivr.net/npm/file-saver@2.0.5/dist/FileSaver.min.js
 // @require            https://cdn.jsdelivr.net/npm/pica@9.0.1/dist/pica.min.js
