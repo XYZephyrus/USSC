@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Global Scrollbar Hide
-// @namespace    github.com/XYZephyrus
+// @namespace    https://github.com/XYZephyrus/ZEUS
 // @version      1.0
-// @description  Hides the ugly Chromium system scrollbars completely
-// @author       Gemini
+// @description  Hides the ugly WebView scrollbar completely
+// @author       Zephyrus + Gemini
 // @match        *://*/*
 // @grant        none
 // @run-at       document-start
