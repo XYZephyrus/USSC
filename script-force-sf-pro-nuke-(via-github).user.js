@@ -2,6 +2,7 @@
 // @name         Force SF Pro Nuke (via Github)
 // @namespace    via
 // @version      1.2
+// @author        Zephyrus
 // @match        *://*/*
 // @run-at       document-start
 // ==/UserScript==
