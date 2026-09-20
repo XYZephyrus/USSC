@@ -1,0 +1,19 @@
+// ==UserScript==
+// @name                  NAME
+// @namespace       NS
+// @version               v1
+// @description        TBA
+// @author                Zephyrus
+// @run-at                 document-start/document-idle/document-end
+// @match           
+// @grant                  GM_addStyle
+// ==/UserScript==
+
+(function() {
+    'use strict';
+    GM_addStyle(`
+    
+    `);
+    OR
+    });
+})();
