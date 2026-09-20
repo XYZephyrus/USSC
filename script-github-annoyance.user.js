@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name            GitHub Annoyance
-// @namespace       Git
+// @namespace       https://github.com/XYZephyrus/ZEUS
 // @version         v1.2
-// @description     GH
+// @description     No Sponsor button
 // @author          Zephyrus
 // @run-at          document-start
 // @match           *://github.*/*
