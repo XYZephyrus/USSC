@@ -1,6 +1,7 @@
 # About
 ZEUS (Zephyrus UserScript) is a repository containing my collection of userscripts, primarily ones that I use myself. Most of them are vibecoded and tailored specifically for better reachability and usability on mobile devices, particularly in [Via Browser.](https://play.google.com/store/apps/details?id=mark.via.gp)
 
+## <ins>Disclaimer</ins>
 Some scripts in this repository are not my own work. Full credit goes to their respective authors and owners, with credits and original sources provided where applicable. 
 
 ---
