@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         HC Top to Bottom
-// @namespace    https://viayoo.com/
+// @name         HC Top to Bottom + AMOLED Dark Mode
+// @namespace    https://github.com/XYZephyrus/ZEUS
 // @version      v1.4
-// @description  try to take over the world!
-// @author       Me
+// @description  A script to bring the header down + gives you AMOLED dark mode
+// @author       Zephyrus
 // @run-at       document-start
 // @match        *://hentai-cosplay-xxx.*/*
 // @grant        GM_addStyle
@@ -53,16 +53,9 @@
  left: 50px !important;
  }
 
-        /* Prevent the bottom of the page from being hidden behind the bar */
-        body {
-            padding-bottom: 60px !important;
-        }
-
-        /* Fix submenus/mobile nav popping up instead of down */
-        #top .nav-menu, 
-        #top [x-show="menuOpen"] {
-            bottom: 100% !important;
-            top: auto !important;
-        }
+/* Prevent the bottom of the page from being hidden behind the bar */
+body {
+ padding-bottom: 60px !important;
+ }
     `);
 })();
