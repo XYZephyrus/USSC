@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Invert Brute-Force Dark Mode
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/XYZephyrus/ZEUS
+// @author.       Zephyrus
 // @version      1.1
 // @description  Inverts the page colors to force a dark mode
-// @match        
+// @match       *://*/* 
 // @grant        GM_addStyle
 // @run-at       document-end
 // ==/UserScript==
