@@ -35,7 +35,7 @@ Displays a popup showing the font family currently used by the website.
 Forces links to open in a new browser tab instead of the current one.
 
 ##### [Force SF](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-force-sf-pro-nuke-(via-github).user.js)
-Injects SF to any sites.
+Injects SF to any sites. (Might broke icons)
 
 ##### [Gelbooru to Danbooru Color Scheme](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-gelbooru-to-danbooru-color.user.js)
 Applies Danbooru's color scheme to Gelbooru for a more familiar appearance.
