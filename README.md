@@ -13,7 +13,7 @@ A script to make navigating around [Civitai](https://civitai.red) easier on mobi
 ##### [Danbooru Top to Bottom](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-danbooru-top-to-bottom.user.js)
 A script to make navigating around [Danbooru](https://danbooru.donmai.us) easier on mobile devices
 
-##### [DarkReader](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-danbooru-top-to-bottom.user.js)
+##### [DarkReader](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-darkreader.user.js)
 A script to bring the famous [DarkReader](https://darkreader.org) browser extension to mobile through its API using userscript
 
 ##### [Disable Google AMP](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-disable-amp.user.js)
