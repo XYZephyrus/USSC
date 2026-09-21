@@ -14,7 +14,7 @@ A script to make navigating around [Civitai](https://civitai.red) easier on mobi
 A script to make navigating around [Danbooru](https://danbooru.donmai.us) easier on mobile devices
 
 ##### [DarkReader](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-darkreader.user.js)
-A script to bring the famous [DarkReader](https://darkreader.org) browser extension to mobile through its API using userscript
+An editable script to bring the famous [DarkReader](https://darkreader.org) browser extension to mobile through its API using userscript.
 
 ##### [Disable Google AMP](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-disable-amp.user.js)
 Disables Google AMP pages and redirects them to their original URLs.
