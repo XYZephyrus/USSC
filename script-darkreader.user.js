@@ -1,21 +1,22 @@
 // ==UserScript==
 // @name            DarkReader
-// @namespace     https://github.com/XYZephyrus/ZEUS
-// @version         v1
+// @namespace       DR
+// @version         v1.01
 // @description     NA
 // @author          Zephyrus
 // @run-at          document-end
-// @match         *://*/* 
-// @require         https://cdn.jsdelivr.net/npm/darkreader@4.9.58/darkreader.js
+// @match           
+// @require            https://cdn.jsdelivr.net/npm/darkreader@4.9.58/darkreader.js
 // ==/UserScript==
 
 (function() {
     DarkReader.setFetchMethod(window.fetch);
     DarkReader.enable({
+        darkSchemeBackgroundColor: '#000000',
+        darkSchemeTextColor: '#ffffff',
         brightness: 100,
-        contrast: 120,
-        sepia: 0,
-        saturation: 0
+        contrast: 110,
+        sepia: -15,
     });
 })();
 
