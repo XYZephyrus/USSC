@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Font Teller
-// @namespace    https://viayoo.com/
+// @namespace    https://github.com/XYZephyrus/ZEUS
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  NA
+// @author       Zephyrus
 // @run-at       document-end
 // @match        *://*/*
 // @grant        none
