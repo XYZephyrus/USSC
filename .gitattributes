@@ -1,1 +1,4 @@
-script-civitai-top-to-bottom.user.js linguist-language=CSS
+*.user.js linguist-language=CSS
+
+script-darkreader.user.js linguist-language=JavaScript
+script-disable-amp.user.js linguist-language=JavaScript
