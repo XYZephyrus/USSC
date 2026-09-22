@@ -74,6 +74,9 @@ A script to put the tags on a gallery inside a folding container so that we don'
 ##### [Pull to Refresh](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-pull-to-refresh.user.js)
 Gives ability to do a pull to refresh gesture in Via which doesn't support it natively.
 
+##### [Reddit Header Lock](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-reddit-header-lock.user.js)
+Locks the header of Reddit's mobile layout.
+
 
 
 _TBA_
