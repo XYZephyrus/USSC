@@ -77,7 +77,7 @@ Gives ability to do a pull to refresh gesture in Via which doesn't support it na
 ##### [Reddit Header Lock](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-reddit-header-lock.user.js)
 Locks the header of Reddit's mobile layout.
 
-##### [Reddit NSFW Unblur](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-reddit-nsfw-unblur.user.js)
-Removes the annoying pop-up when viewing NSFW post in the mobile web version of Reddit
+##### [Reddit NSFW Unblur](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-reddit-nsfw-unblur.user.js) / [Original](https://greasyfork.org/en/scripts/485608-reddit-nsfw-unblur) [Source](https://github.com/zenstorage/Reddit-NSFW-Unblur)
+Removes the annoying pop-up when viewing NSFW post in the mobile web version of Reddit.
 
 _TBA_
