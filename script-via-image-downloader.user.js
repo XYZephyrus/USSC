@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Via Image Downloader
-// @namespace    http://tampermonkey.net
+// @namespace    https://github.com/XYZephyrus/ZEUS
 // @version      1.0
 // @description  Adds a floating button to download all loaded images on the page
-// @author       AI
+// @author       Zephyrus & Gemini
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==
