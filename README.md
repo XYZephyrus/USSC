@@ -44,8 +44,11 @@ Injects SF to any sites. (Might break icons)
 ##### [Gelbooru to Danbooru Color Scheme](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-gelbooru-to-danbooru-color.user.js)
 Applies Danbooru's color scheme to Gelbooru for a more familiar appearance.
 
-##### [No GitHub Annoyance](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-github-annoyance.user.js)
-Removes the Sponsor button on all github repository pages that could exceeds the viewport in a certain device/browser.
+##### [GitHub Header Lock](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-github-header-lock.user.js)
+Locks the header of GitHub's mobile layout.
+
+##### [GitHub Annoyance](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-github-annoyance.user.js)
+Removes the Sponsor button on all github repository pages that could exceeds the viewport in a certain mobile device/browser.
 
 ##### [Global Scrollbar Hide](https://github.com/XYZephyrus/ZEUS/raw/refs/heads/main/script-global-scrollbar-hide.user.js)
 Removes WebView's ugly scrollbar.
